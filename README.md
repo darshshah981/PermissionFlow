@@ -4,6 +4,14 @@ PermissionFlow is an open-source macOS permission onboarding kit for apps that n
 
 It is designed for developer tools, automation products, AI assistants, screen tools, backup utilities, and other Mac apps where the default permission experience is too confusing.
 
+## Preview
+
+![PermissionFlow setup checklist](Media/permissionflow-setup.png)
+
+![PermissionFlow floating coach beside System Settings](Media/permissionflow-coach.png)
+
+![PermissionFlow row-to-coach animation](Media/permissionflow-flow.gif)
+
 The core UX:
 
 1. Explain the permission in plain language.
